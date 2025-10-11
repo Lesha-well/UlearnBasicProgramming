@@ -1,0 +1,5 @@
+c:\Users\Moroz\Desktop\ulearn - c#\DistanceTask\obj\Debug\net6.0\DistanceTask.csproj.AssemblyReference.cache
+c:\Users\Moroz\Desktop\ulearn - c#\DistanceTask\obj\Debug\net6.0\DistanceTask.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Moroz\Desktop\ulearn - c#\DistanceTask\obj\Debug\net6.0\DistanceTask.AssemblyInfoInputs.cache
+c:\Users\Moroz\Desktop\ulearn - c#\DistanceTask\obj\Debug\net6.0\DistanceTask.AssemblyInfo.cs
+c:\Users\Moroz\Desktop\ulearn - c#\DistanceTask\obj\Debug\net6.0\DistanceTask.csproj.CoreCompileInputs.cache
